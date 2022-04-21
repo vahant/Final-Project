@@ -1,0 +1,27 @@
+.slideimagecontainer{
+    flex: 1;
+}
+
+.infoslidecontainer{
+    flex: 1;
+    height: 100%;
+}
+.slideimg{
+    width: 100vw;
+    height: 80%;
+}
+
+.slider{
+    height: 600vh;
+    width: 100vw;
+    display: flex;
+}
+
+.wrapper{
+    height: 100%;
+}
+
+.slide{
+    display: flex;
+    align-items: center;
+}
